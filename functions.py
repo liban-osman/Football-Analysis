@@ -16,4 +16,3 @@ def players_list(data):
     players = players.reset_index()
     players.columns = ["players_id", "player_name"]
     return players
-
