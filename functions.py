@@ -50,3 +50,5 @@ def passes_plot(df_suc, df_unsuc):
     # Plot the legend
     ax.legend(facecolor='#22312b', edgecolor='None', fontsize=20, loc='upper left', handlelength=4)
     plt.show()
+
+
